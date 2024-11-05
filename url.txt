@@ -1,0 +1,2 @@
+# Link deploy
+https://dashboard-brazilian-ecommerce.streamlit.app/
